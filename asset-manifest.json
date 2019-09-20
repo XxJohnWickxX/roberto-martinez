@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roberto-martinez/static/css/main.b100e6da.chunk.css",
+    "main.js": "/roberto-martinez/static/js/main.ba913bc1.chunk.js",
+    "main.js.map": "/roberto-martinez/static/js/main.ba913bc1.chunk.js.map",
+    "runtime-main.js": "/roberto-martinez/static/js/runtime-main.3037b580.js",
+    "runtime-main.js.map": "/roberto-martinez/static/js/runtime-main.3037b580.js.map",
+    "static/js/2.1df68844.chunk.js": "/roberto-martinez/static/js/2.1df68844.chunk.js",
+    "static/js/2.1df68844.chunk.js.map": "/roberto-martinez/static/js/2.1df68844.chunk.js.map",
+    "index.html": "/roberto-martinez/index.html",
+    "precache-manifest.9382f7246ee4a249fb452dd12813d40a.js": "/roberto-martinez/precache-manifest.9382f7246ee4a249fb452dd12813d40a.js",
+    "service-worker.js": "/roberto-martinez/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/roberto-martinez/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/roberto-martinez/static/media/logo.25bf045c.svg"
+  }
+}
